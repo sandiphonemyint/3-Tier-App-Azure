@@ -12,7 +12,7 @@ RUN go mod download
 # Copy source code
 COPY main.go ./
 
-# For static analysis
+# For static analysis backend
 # RUN go vet -v
 
 # Build the application CGO_ENABLED=0 for removeing c library dependencies
