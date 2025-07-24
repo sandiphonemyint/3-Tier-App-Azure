@@ -76,5 +76,3 @@ coverage/
 coverage.xml
 *.cover
 
-#Extension
-*.png
