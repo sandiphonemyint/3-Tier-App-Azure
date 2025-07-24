@@ -15,8 +15,8 @@ bastion_subnet_prefix    = "10.0.7.0/24"
 appgw_subnet_prefix      = "10.0.8.0/24"
 
 # Compute settings
-frontend_vm_size   = "Standard_B1s"
-backend_vm_size    = "Standard_B1s"
+frontend_vm_size   = "Standard_B1s" # change vm size
+backend_vm_size    = "Standard_B1s" # change vm size
 frontend_instances = 2
 backend_instances  = 2
 admin_username     = "adminuser"
