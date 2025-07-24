@@ -1,6 +1,6 @@
 
 
-# 🌐 Azure 3-Tier Infrastructure - CloudOps Goal Tracker
+# 🌐 Azure 3-Tier Infrastructure - CloudOps Goal Tracker App
 
 Deploy a modern 3-tier application architecture on **Azure** using **Terraform** and **Docker**, featuring:
 
